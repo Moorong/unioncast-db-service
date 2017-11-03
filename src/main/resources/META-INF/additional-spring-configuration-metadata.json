@@ -1,0 +1,102 @@
+{"properties": [
+  {
+    "name": "spring.datasource.mysql_common.driver-class-name",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.datasource.mysql_common.driver-class-name'"
+  },
+  {
+    "name": "spring.datasource.mysql_common.url",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.datasource.mysql_common.url'"
+  },
+  {
+    "name": "spring.datasource.mysql_common.username",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.datasource.mysql_common.username'"
+  },
+  {
+    "name": "spring.datasource.mysql_common.password",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.datasource.mysql_common.password'"
+  },
+  {
+    "name": "spring.datasource.mysql_adx.driver-class-name",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.datasource.mysql_adx.driver-class-name'"
+  },
+  {
+    "name": "spring.datasource.mysql_adx.url",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.datasource.mysql_adx.url'"
+  },
+  {
+    "name": "spring.datasource.mysql_adx.username",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.datasource.mysql_adx.username'"
+  },
+  {
+    "name": "spring.datasource.mysql_adx.password",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.datasource.mysql_adx.password'"
+  },
+  {
+    "name": "spring.datasource.mysql_dsp.driver-class-name",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.datasource.mysql_dsp.driver-class-name'"
+  },
+  {
+    "name": "spring.datasource.mysql_dsp.url",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.datasource.mysql_dsp.url'"
+  },
+  {
+    "name": "spring.datasource.mysql_dsp.username",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.datasource.mysql_dsp.username'"
+  },
+  {
+    "name": "spring.datasource.mysql_dsp.password",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.datasource.mysql_dsp.password'"
+  },
+  {
+    "name": "spring.datasource.mysql_dmp.driver-class-name",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.datasource.mysql_dmp.driver-class-name'"
+  },
+  {
+    "name": "spring.datasource.mysql_dmp.url",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.datasource.mysql_dmp.url'"
+  },
+  {
+    "name": "spring.datasource.mysql_dmp.username",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.datasource.mysql_dmp.username'"
+  },
+  {
+    "name": "spring.datasource.mysql_dmp.password",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.datasource.mysql_dmp.password'"
+  },
+  {
+    "name": "spring.datasource.mysql_ssp.driver-class-name",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.datasource.mysql_ssp.driver-class-name'"
+  },
+  {
+    "name": "spring.datasource.mysql_ssp.url",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.datasource.mysql_ssp.url'"
+  },
+  {
+    "name": "spring.datasource.mysql_ssp.username",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.datasource.mysql_ssp.username'"
+  },
+  {
+    "name": "spring.datasource.mysql_ssp.password",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.datasource.mysql_ssp.password'"
+  }
+]}

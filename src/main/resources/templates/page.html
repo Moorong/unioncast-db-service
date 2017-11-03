@@ -1,0 +1,19 @@
+<html xmlns="http://www.w3.org/1999/xhtml"
+	xmlns:th="http://www.thymeleaf.org">
+
+<body>
+
+	<div th:fragment="header">
+		<a th:href="@{/}"> 
+			<img th:src="@{/images/timg.jpg}" border="0" />
+		</a>
+		<a th:href="@{/logout}">Logout</a>
+		<a href="javascript:void(0);" onclick="javascript:location.href=location.origin+location.pathname+'/swagger-ui.html'">Rest API</a>
+	</div>
+
+	<div>Content goes here</div>
+
+	<div th:fragment="copy">Copyright &copy; Craig Walls</div>
+</body>
+
+</html>
